@@ -9,9 +9,9 @@ List of most used shortcuts I use
 
 ### Other Tricks/tips
 * Option + left click menu bar icons ==> Detailed description
- * Works for Wifi, Sound
+ ** Works for Wifi, Sound
 
 * Force Quit Application
- *  Right Click Icon on Dock + Press Option ==> Force Quit
+ **  Right Click Icon on Dock + Press Option ==> Force Quit
 ## Linux 
 
