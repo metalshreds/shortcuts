@@ -14,8 +14,8 @@ List of most used shortcuts I use
 
 ## Show Desktop
 * Linux Gnome ==> command + D 
-* cmd + F3 (Expose) ==> view desktop (move all windows aside)
-* OSX ==> command  + D
+* OS X cmd + F3 (Expose) ==> view desktop (move all windows aside)
+* Windows 10 ==> command  + D
 
 ## OS Specific 
 ### OS X 
