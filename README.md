@@ -17,6 +17,9 @@ List of most used shortcuts I use
 * OS X cmd + F3 (Expose) ==> view desktop (move all windows aside)
 * Windows 10 ==> command  + D
 
+## Copy or Move Dragged Icon
+* 
+
 ## OS Specific 
 ### OS X 
 * Smaller increments Volume/Backlight ==> shift + option + volume/backlght up/down 
