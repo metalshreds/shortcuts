@@ -35,3 +35,46 @@ List of most used shortcuts I use
   
 ## Linux 
 
+
+***
+## Programs installed macOS
+* Chrome
+* Firefox 
+* VLC 
+* Handbrake
+* Audacity
+* FLV Crunch
+* Adobe Suite
+* Lightworks
+* Office Suite
+* Android Studio
+* CLion
+* PyCharm
+* IntelliJ
+* Sketchup
+* Sublime
+* Spotify
+* FileZilla
+* MAMP
+* MongoDB Compass Community
+* Transmission
+* KeePassX
+* WhatsApp
+* Evernote
+* Android File Transfer
+* Arduino IDE
+* Terminal
+* TunnelBlick
+* Brother Control Center Drivers
+* GPG Keychain
+* Sketchly 
+* CoolTerm
+* Postman
+* Helium
+* Acrobat Reader
+
+## Backup
+* SSH Keys
+* KeePassX DB
+
+
